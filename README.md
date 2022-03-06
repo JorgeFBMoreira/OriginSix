@@ -1,6 +1,6 @@
 # What is OriginSix
 "OriginSix" is a project from a event called "NLW" (Next Level Week), hosted by Rocketseat.
-Every NLW consist in making a project in a week (to be more precise, it's made in 5 days). Rocketseat recently made some of the NLW available on its platform (https://app.rocketseat.com.br/). 
+Every NLW consist in making a project in a week (to be more precise, it's made in 5 days). Rocketseat recently made some of the NLW available on its platform (https://app.rocketseat.com.br). <br> 
 OriginSix is a simple project where starters at programming might be able to learn, do and even change the code-base with no difficulties at all.
 
 
