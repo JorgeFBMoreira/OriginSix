@@ -37,4 +37,4 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 
 ## License
 
-This repository is under MIT license. You can see the [LICENSE](.github/LICENSE.md) file for more details.
+This repository is under MIT license. You can see the [LICENSE](LICENSE.md) file for more details.
