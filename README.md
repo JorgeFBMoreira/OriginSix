@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+
 
 <br>
 
@@ -8,6 +6,16 @@
   <img alt="OriginSix Preview" src="github/preview.png" width="100%">
 </p> <br>
 
+<table align="center">
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><a href="README-pt.md">Português</a></td>
+  </tr>
+  
+  <p align="center">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  </p>
+</table>
 
 
 
@@ -63,7 +71,7 @@ http://127.0.0.1:5500/folder/maybeAnotherFolder/OriginSix/index.html
 You can check out all the related links to OriginSix project:
 - [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it)
 - [Notion](https://efficient-sloth-d85.notion.site/OriginSix-435f86f59f4f423bb4248ad2e28637dc)
-- [Rocketseat - OriginSix project](https://app.rocketseat.com.br/node/origin-six-a-sua-primeira-aplicacao-web)
+- [Rocketseat - OriginSix project](https://app.rocketseat.com.br/node/origin-six-a-sua-primeira-aplicacao-web) (you need a Rocketseat account to access it)
 
 
 
