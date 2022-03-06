@@ -68,6 +68,12 @@ This repository is under MIT license. You can see the [LICENSE](LICENSE) file fo
 
 >Made with 💜 by **[@Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65123521a/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)** in NLW 06 event, hosted by **[Rocketseat](https://www.linkedin.com/school/rocketseat/)**
 
+
+          Made with 💜 by **[@Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65123521a/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)** in NLW 06 event, hosted by **[Rocketseat](https://www.linkedin.com/school/rocketseat/)**
+
+
+
+
 <br>
 
 [![Rocketseat Profile](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
