@@ -22,18 +22,18 @@
 
 
 ## 📑 Technologies
-This project was made with the following technologies:
 
+This project was made with the following technologies:
 - HTML
 - CSS
 - JavaScript
 
-Libraries
+Libraries:
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org)
 
-Utilities
+Utilities:
 - [UnSplash](https://unsplash.com/)
 - [IconMoon](https://icomoon.io/app)
 
@@ -45,7 +45,16 @@ Utilities
 
 OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br><br>
 
-You can see the layout in the following link: [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it).
+
+
+
+
+## Links
+
+You can check out all the related links to OriginSix project:
+- [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it);
+- [Notion](https://efficient-sloth-d85.notion.site/OriginSix-435f86f59f4f423bb4248ad2e28637dc);
+- [Rocketseat - OriginSix project](https://app.rocketseat.com.br/node/origin-six-a-sua-primeira-aplicacao-web)
 
 
 
