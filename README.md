@@ -36,6 +36,7 @@ Utilities:
 
 OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br>
 You can see the website in the <a href="https://jorgefbmoreira.github.io/OriginSix" target="_blank">following Link.</a>
+[go](https://jorgefbmoreira.github.io/OriginSix){:target="_blank" rel="noopener"}
 <br><br>
 
 
