@@ -4,7 +4,6 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://jorgefbmoreira.github.io/OriginSix">Website</a></td>
     <td><a href="README.md">English</a></td>
     <td><a href="README-pt.md">Portuguese</a></td>
   </tr>
@@ -35,7 +34,9 @@ Utilities:
 
 ## 💻 PROJECT
 
-OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br><br>
+OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br>
+You can see the website in the <a href="https://jorgefbmoreira.github.io/OriginSix" target="_blank">following Link.</a>
+<br><br>
 
 
 
