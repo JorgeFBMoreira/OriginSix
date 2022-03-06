@@ -54,3 +54,7 @@ OriginSix foi originalmente feito de NLW (Next Level Week) 06, hospedado pela Ro
 ## 📜 LICENSE
 
 This repository is under MIT license. You can see the [LICENSE](LICENSE) file for more details.
+
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
