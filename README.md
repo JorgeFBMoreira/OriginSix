@@ -57,4 +57,4 @@ This repository is under MIT license. You can see the [LICENSE](LICENSE) file fo
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Moreira-6ab99d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/jorge-moreira-65123521a)
