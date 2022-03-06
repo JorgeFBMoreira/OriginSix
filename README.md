@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix Preview" src=".github/preview.png" width="100%">
+  <img alt="OriginSix Preview" src="github/preview.png" width="100%">
 </p>
 
 
