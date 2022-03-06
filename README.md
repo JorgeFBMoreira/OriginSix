@@ -6,7 +6,7 @@ OriginSix is a simple project where starters at programming might be able to lea
 
 
 
-<br>
+<br/>
 ## Technologies
 This project was made with the following technologies:
 
@@ -26,7 +26,7 @@ Utilities
 
 
 
-<br>
+<br/>
 ## 💻 Project
 
 OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized). OriginSix contains the following sections: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer
@@ -34,5 +34,5 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 
 
 
-<br>
+<br/>
 ##
