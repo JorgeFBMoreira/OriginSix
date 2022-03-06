@@ -7,7 +7,7 @@
     <td><a href="README.md">English</a></td>
     <td><a href="README-pt.md">Portuguese</a></td>
   </tr>
-</table>
+</table><br><br>
 
 
 
