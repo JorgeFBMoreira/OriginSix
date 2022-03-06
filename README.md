@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix Preview" src=".github/preview.png" width="100%">
 </p>
 
 
@@ -66,11 +66,8 @@ This repository is under MIT license. You can see the [LICENSE](LICENSE) file fo
 
 ---
 
->Made with 💜 by **[@Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65123521a/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)** in NLW 06 event, hosted by **[Rocketseat](https://www.linkedin.com/school/rocketseat/)**
+Made with 💜 by **[Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65123521a/)**, with the instructor **[@aykBrito](https://linkedin.com/in/maykbrito)** in NLW 06 event, hosted by **[Rocketseat](https://www.linkedin.com/school/rocketseat/)**
 
-```
-Made with 💜 by **[@Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65123521a/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)** in NLW 06 event, hosted by **[Rocketseat](https://www.linkedin.com/school/rocketseat/)**
-```
 
 
 
