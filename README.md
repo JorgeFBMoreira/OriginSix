@@ -40,6 +40,15 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 
 
 
+## 💼 How to Use
+
+    How to use:
+    - Abc
+
+
+
+
+
 ## 🔖 Links
 
 You can check out all the related links to OriginSix project:
