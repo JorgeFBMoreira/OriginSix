@@ -12,7 +12,7 @@
 
 
 
-## 📑 Technologies
+## 📑 TECHNOLOGIES
 
 This project was made with the following technologies:
 - HTML
@@ -32,7 +32,7 @@ Utilities:
 
 
 
-## 💻 Project
+## 💻 PROJECT
 
 OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br><br>
 
@@ -40,19 +40,25 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 
 
 
-## 💼 How to Use
-
-    How to use:
-    - Abc
+## 💼 HOW TO USE
 ```
-how to use
-- abc
+- Clone this repository:
+$ git clone https://github.com/JorgeFBMoreira/OriginSix
+
+- Start a local server with Live Server (VS Code)
+
+- Open your browser in:
+http://127.0.0.1:5500   or
+http://localhost:5500
+
+[NOTE] Depending in where you execute your live server, you may have a url like:
+http://127.0.0.1:5500/folder/maybeAnotherFolder/OriginSix/index.html
 ```
 
 
 
 
-## 🔖 Links
+## 🔖 LINKS
 
 You can check out all the related links to OriginSix project:
 - [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it)
