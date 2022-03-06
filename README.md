@@ -52,8 +52,8 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 ## Links
 
 You can check out all the related links to OriginSix project:
-- [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it);
-- [Notion](https://efficient-sloth-d85.notion.site/OriginSix-435f86f59f4f423bb4248ad2e28637dc);
+- [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it)
+- [Notion](https://efficient-sloth-d85.notion.site/OriginSix-435f86f59f4f423bb4248ad2e28637dc)
 - [Rocketseat - OriginSix project](https://app.rocketseat.com.br/node/origin-six-a-sua-primeira-aplicacao-web)
 
 
