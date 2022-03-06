@@ -44,7 +44,9 @@ Utilities
 ## 💻 Project
 
 OriginSix is an institutional website in a "Landing Page" format. It's responsive to small and large devices and it can be used in different types of enterprises (from micro to medium-sized).<br><br>
-OriginSix is a project made from NLW (Next Level Week) 06, hosted by Rocketseat. You can have access to NLW 06 by accessing Rocketseat platform from the following link: [https://app.rocketseat.com.br](https://app.rocketseat.com.br).
+
+OriginSix foi originalmente feito de NLW (Next Level Week) 06, hospedado pela Rocketseat. You can have access to NLW 06 by accessing Rocketseat platform from the following link: [https://app.rocketseat.com.br](https://app.rocketseat.com.br).
+
 
 
 
