@@ -53,11 +53,9 @@ OriginSix foi originalmente feito de NLW (Next Level Week) 06, hospedado pela Ro
 
 ## 📜 LICENSE
 
-This repository is under MIT license. You can see the [LICENSE](LICENSE) file for more details.
+This repository is under MIT license. You can see the [LICENSE](LICENSE) file for more details.<br>
 
----
-
-You can see the layout in the following link: [OriginSix](https://www.figma.com/community/file/1009807319507822993/Origin-Six). You need a Figma account to access it.
+You can see the layout in the following link: [Figma](https://www.figma.com/community/file/1009807319507822993/Origin-Six) (you need a Figma account to access it).
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/jorge-moreira-65123521a)
