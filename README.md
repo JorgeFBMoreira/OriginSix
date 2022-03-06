@@ -84,5 +84,5 @@ Made with 💜 by **[Jorge Moreira](https://www.linkedin.com/in/jorge-moreira-65
 
 [![Rocketseat Profile](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jorge-moreira-65123521a/) &nbsp;
-[![Discord: Huesos#0519](https://img.shields.io/badge/-Huesos%231864-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![License](https://img.shields.io/badge/📜-License-39c64c?style=flat&labelColor=0D0D0D)](LICENSE)
+[![Discord: Huesos#0519](https://img.shields.io/badge/-Huesos%231864-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#) &nbsp;
+[![License](https://img.shields.io/badge/📜-License-2da53d?style=flat&labelColor=0D0D0D)](LICENSE)
