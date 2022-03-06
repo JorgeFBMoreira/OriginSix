@@ -53,6 +53,7 @@ $ git clone https://github.com/JorgeFBMoreira/OriginSix
 http://127.0.0.1:5500   or
 http://localhost:5500
 
+
 [NOTE] Depending in where you execute your live server, you may have a url like:
 http://127.0.0.1:5500/folder/maybeAnotherFolder/OriginSix/index.html
 ```
