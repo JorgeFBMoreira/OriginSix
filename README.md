@@ -7,7 +7,7 @@ OriginSix is a simple project where starters at programming might be able to lea
 
 
 
-## Technologies
+## 📑 Technologies
 This project was made with the following technologies:
 
 - HTML
@@ -35,6 +35,6 @@ OriginSix is an institutional website in a "Landing Page" format. It's responsiv
 
 
 
-## License
+## 📜 License
 
 This repository is under MIT license. You can see the [LICENSE](LICENSE) file for more details.
